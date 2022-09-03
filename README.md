@@ -10,7 +10,7 @@ This project aims to adress that issue by creating an app that measures the sent
 
 Some issues with the projects:
 
-- I use a tokenizer to prepare the data but the file size of the tokenizer is too big to upload on GitHub.
+- I use a tokenizer to prepare the data but the file size of the tokenizer is too big to upload on GitHub, hence the app can't be ran online
 - The app needs to be refreshed after every input (currently working on this)
 - Current model accuracy could be improved from 82%
 

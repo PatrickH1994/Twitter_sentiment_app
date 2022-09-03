@@ -13,3 +13,6 @@ Some issues with the projects:
 - I use a tokenizer to prepare the data but the file size of the tokenizer is too big to upload on GitHub.
 - The app needs to be refreshed after every input (currently working on this)
 - Current model accuracy could be improved from 82%
+
+## Picture of the app
+![image](https://user-images.githubusercontent.com/47919492/188270422-bc2cc679-96ef-4174-9d2e-27d06aa6ef92.png)
